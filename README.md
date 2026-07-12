@@ -27,7 +27,8 @@ BOM:
 Others:
 
 QMK Firmware (In xacpad2 folder)
-XacPad2 case.step
+XacPad v2 case BASE.stl
+XacPad v2 case TOP.stl
 
 <img width="1227" height="456" alt="Captura de pantalla 2026-07-10 190142" src="https://github.com/user-attachments/assets/db529fd3-527d-4ac5-8b81-f52d7062769d" />
 <img width="1743" height="692" alt="Captura de pantalla 2026-07-10 190155" src="https://github.com/user-attachments/assets/0ed3b813-1776-463b-8ed6-ce8bae6d302c" />
