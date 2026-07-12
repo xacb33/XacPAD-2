@@ -4,7 +4,6 @@
 
 
 The second attemp of my previously failed XacPAD, a general use/gaming macropad.
-A gaming/general use custom macropad image
 
 Changes from v1:
 Altough the main issue with v1 was the building process, not the design (my soldering iron was too weak) I have made a couple of small changes to improve the general design and the firmware, but keeping the essencve the same:
@@ -27,7 +26,7 @@ BOM:
 
 Others:
 
-QMK Firmware
+QMK Firmware (In xacpad2 folder)
 XacPad2 case.step
 
 <img width="1227" height="456" alt="Captura de pantalla 2026-07-10 190142" src="https://github.com/user-attachments/assets/db529fd3-527d-4ac5-8b81-f52d7062769d" />
