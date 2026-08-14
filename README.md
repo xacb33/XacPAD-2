@@ -15,14 +15,23 @@ Specifications
 BOM:
 
 8x Cherry MX Switches
+
 5x SK6812 MINI Leds
+
 1x XIAO RP2040
+
 8x Blank DSA Keycaps
+
 4x M3x16 Bolt
+
 4x M3 Heatset
+
 1x 0.91' I2C OLED Display
+
 1x EC11 Rotary encoder
+
 8x through-hole 1N4148 Diodes
+
 
 Others:
 
